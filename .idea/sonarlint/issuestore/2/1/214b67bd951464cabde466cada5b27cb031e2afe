@@ -1,0 +1,7 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(øÅÖõ
+’
+java:S1130 "wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(›Æòšúÿÿÿÿ
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
